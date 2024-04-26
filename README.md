@@ -17,7 +17,7 @@ Chức năng:
 - Các phím mũi tên lên xuống trái phải để di chuyển các con số
 
 Cài đặt:
-- Sử dụng các hình ảnh trong file image, các thư mục sdl và main.cpp để khởi chạy chương trình.
+- Sử dụng các hình ảnh trong file image, các thư mục có trên repo này và main.cpp để khởi chạy chương trình.
 
 Complexity: N/A
 
