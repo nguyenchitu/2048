@@ -29,6 +29,9 @@ Cấu trúc dữ liệu:
 - Random
 - Vector
 
+Mẹo:
+- Nên dồn ô có con số to nhất vào góc để giành được điểm cao hơn.
+
 Kết luận:
   Đây là một dự án khởi đầu của bản thân em, dự án đã cho em nhiều kiến thức mới không chỉ về lập trình mà còn là kiến thức về thực nghiệm, tìm tòi nghiên cứu và qua việc đọc các tài liệu tiếng Anh giúp em cải thiện vốn tiếng Anh. Sau dự án, bản thân em vẫn cần khắc phục những thiếu xót và phát triển hơn. Vì thời gian chưa có nhiều nên chưa có sự đột phá lớn trong phát triển con game này.
   
